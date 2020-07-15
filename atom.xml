@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-07-14T21:16:02.634Z</updated>
+    <updated>2020-07-15T18:55:44.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用电脑接收手机短信？电脑代发送验证码软件平台]]></title>
+        <id>https://cwlwxr.github.io/icF7LBTio/</id>
+        <link href="https://cwlwxr.github.io/icF7LBTio/">
+        </link>
+        <updated>2020-07-15T18:53:36.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网上怎么买中国大陆手机电话号码？易博通安全吗？]]></title>
         <id>https://cwlwxr.github.io/3x1IVOhRb/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/vsLInN3az/">
         </link>
         <updated>2020-07-04T02:43:26.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[易博通：在线接收中国虚拟手机号码短信验证码平台（免费试用7天）]]></title>
-        <id>https://cwlwxr.github.io/eSender/</id>
-        <link href="https://cwlwxr.github.io/eSender/">
-        </link>
-        <updated>2020-07-04T00:19:54.000Z</updated>
     </entry>
 </feed>
