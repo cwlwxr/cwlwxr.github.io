@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-07-18T21:34:04.752Z</updated>
+    <updated>2020-07-19T17:17:54.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[登录12306提示我的手机号码尚未通过 APP核验不了]]></title>
+        <id>https://cwlwxr.github.io/rByW5nn1q/</id>
+        <link href="https://cwlwxr.github.io/rByW5nn1q/">
+        </link>
+        <updated>2020-07-19T16:54:54.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[易博通如何发送手机简讯SMS验证码注册核验12306？]]></title>
         <id>https://cwlwxr.github.io/C_pOJMNSd/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/37BiUulcj/">
         </link>
         <updated>2020-07-11T18:07:16.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国英文版易博通 eSender 微信申请界面设置方法]]></title>
-        <id>https://cwlwxr.github.io/AnVboYkZU/</id>
-        <link href="https://cwlwxr.github.io/AnVboYkZU/">
-        </link>
-        <updated>2020-07-10T16:11:21.000Z</updated>
     </entry>
 </feed>
