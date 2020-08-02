@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-08-01T20:11:52.217Z</updated>
+    <updated>2020-08-02T22:00:00.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[易博通eSender优惠码：DM1288 输入验证码错误怎么办？]]></title>
+        <id>https://cwlwxr.github.io/1rq-U6e32/</id>
+        <link href="https://cwlwxr.github.io/1rq-U6e32/">
+        </link>
+        <updated>2020-08-02T21:58:43.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[广州博元讯息获颁通过转售方式提供蜂窝移动通信牌照]]></title>
         <id>https://cwlwxr.github.io/glmkingsT/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/lIuGeFRhn/">
         </link>
         <updated>2020-07-26T01:05:04.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何才能最快速成为网红?教你当抖音快手主播年赚100万]]></title>
-        <id>https://cwlwxr.github.io/0bsWrowSk/</id>
-        <link href="https://cwlwxr.github.io/0bsWrowSk/">
-        </link>
-        <updated>2020-07-24T21:19:26.000Z</updated>
     </entry>
 </feed>
