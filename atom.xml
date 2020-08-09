@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-08-08T17:46:37.052Z</updated>
+    <updated>2020-08-09T18:29:43.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[马来西亚什么网络配套最好最快？2019网速比较排名评比]]></title>
+        <id>https://cwlwxr.github.io/qCD81w1NC/</id>
+        <link href="https://cwlwxr.github.io/qCD81w1NC/">
+        </link>
+        <updated>2020-08-09T17:58:28.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国/美国/加拿大/日本/韩国/新加坡/马来西亚4G上网卡旅游配套]]></title>
         <id>https://cwlwxr.github.io/cxaStZG0c/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/Lr0-NgX_G/">
         </link>
         <updated>2020-07-31T19:36:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蜂窝移动数据是什么？蜂窝移动通信网络有什么用？]]></title>
-        <id>https://cwlwxr.github.io/bmYqrRP8U/</id>
-        <link href="https://cwlwxr.github.io/bmYqrRP8U/">
-        </link>
-        <updated>2020-07-31T17:31:00.000Z</updated>
     </entry>
 </feed>
