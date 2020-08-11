@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-08-10T22:30:59.331Z</updated>
+    <updated>2020-08-11T20:39:17.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[eSIM虚拟卡是什么意思 中国/马来西亚城市有开通eSIM吗]]></title>
+        <id>https://cwlwxr.github.io/bgSp6Bbbc/</id>
+        <link href="https://cwlwxr.github.io/bgSp6Bbbc/">
+        </link>
+        <updated>2020-08-11T20:38:13.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eSIM卡怎么收费？什么手机支持办理购买使用eSIM卡？]]></title>
         <id>https://cwlwxr.github.io/lh375ea_l/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/1rq-U6e32/">
         </link>
         <updated>2020-08-02T21:58:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广州博元讯息获颁通过转售方式提供蜂窝移动通信牌照]]></title>
-        <id>https://cwlwxr.github.io/glmkingsT/</id>
-        <link href="https://cwlwxr.github.io/glmkingsT/">
-        </link>
-        <updated>2020-08-01T20:10:50.000Z</updated>
     </entry>
 </feed>
