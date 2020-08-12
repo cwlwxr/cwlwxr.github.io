@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-08-11T20:39:17.714Z</updated>
+    <updated>2020-08-12T18:47:00.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[注册Twitter中国手机号码无效？请输入有效的手机号码]]></title>
+        <id>https://cwlwxr.github.io/ilIpwZbMh/</id>
+        <link href="https://cwlwxr.github.io/ilIpwZbMh/">
+        </link>
+        <updated>2020-08-12T18:43:34.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eSIM虚拟卡是什么意思 中国/马来西亚城市有开通eSIM吗]]></title>
         <id>https://cwlwxr.github.io/bgSp6Bbbc/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/0ggVyS0Lr/">
         </link>
         <updated>2020-08-03T19:00:20.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[易博通eSender优惠码：DM1288 输入验证码错误怎么办？]]></title>
-        <id>https://cwlwxr.github.io/1rq-U6e32/</id>
-        <link href="https://cwlwxr.github.io/1rq-U6e32/">
-        </link>
-        <updated>2020-08-02T21:58:43.000Z</updated>
     </entry>
 </feed>
