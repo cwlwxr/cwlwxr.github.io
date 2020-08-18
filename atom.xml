@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-08-18T07:24:00.288Z</updated>
+    <updated>2020-08-18T22:29:54.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[马来西亚去中国旅游怎样上网？上网申请中国预付电话卡SIM卡！]]></title>
+        <id>https://cwlwxr.github.io/HjhFcOOc6/</id>
+        <link href="https://cwlwxr.github.io/HjhFcOOc6/">
+        </link>
+        <updated>2020-08-18T22:28:28.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[易博通APP预计7月推出：代收中国验证码/获取香港手机验证码]]></title>
         <id>https://cwlwxr.github.io/ov36r_KTe/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/qCD81w1NC/">
         </link>
         <updated>2020-08-09T17:58:28.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国/美国/加拿大/日本/韩国/新加坡/马来西亚4G上网卡旅游配套]]></title>
-        <id>https://cwlwxr.github.io/cxaStZG0c/</id>
-        <link href="https://cwlwxr.github.io/cxaStZG0c/">
-        </link>
-        <updated>2020-08-08T17:45:50.000Z</updated>
     </entry>
 </feed>
