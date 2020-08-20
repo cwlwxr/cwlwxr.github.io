@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-08-18T22:29:54.389Z</updated>
+    <updated>2020-08-20T07:06:55.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[去泰国手机上网卡如何解决？泰国旅游网络使用配套]]></title>
+        <id>https://cwlwxr.github.io/Mvie3HlzI/</id>
+        <link href="https://cwlwxr.github.io/Mvie3HlzI/">
+        </link>
+        <updated>2020-08-20T06:58:28.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马来西亚去中国旅游怎样上网？上网申请中国预付电话卡SIM卡！]]></title>
         <id>https://cwlwxr.github.io/HjhFcOOc6/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/lh375ea_l/">
         </link>
         <updated>2020-08-10T22:11:12.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马来西亚什么网络配套最好最快？2019网速比较排名评比]]></title>
-        <id>https://cwlwxr.github.io/qCD81w1NC/</id>
-        <link href="https://cwlwxr.github.io/qCD81w1NC/">
-        </link>
-        <updated>2020-08-09T17:58:28.000Z</updated>
     </entry>
 </feed>
