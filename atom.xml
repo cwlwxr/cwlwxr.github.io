@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-08-27T13:46:47.782Z</updated>
+    <updated>2020-08-28T13:51:43.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[无法使用易博通APP:该微信号未开通易博通业务怎么办？]]></title>
+        <id>https://cwlwxr.github.io/weJtcmQa9/</id>
+        <link href="https://cwlwxr.github.io/weJtcmQa9/">
+        </link>
+        <updated>2020-08-28T13:40:04.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港电话卡能注册微信吗？易博通手机号码国内注册微信]]></title>
         <id>https://cwlwxr.github.io/UYX48kzJK/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/HjhFcOOc6/">
         </link>
         <updated>2020-08-18T22:28:28.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[易博通APP预计7月推出：代收中国验证码/获取香港手机验证码]]></title>
-        <id>https://cwlwxr.github.io/ov36r_KTe/</id>
-        <link href="https://cwlwxr.github.io/ov36r_KTe/">
-        </link>
-        <updated>2020-08-18T07:22:37.000Z</updated>
     </entry>
 </feed>
