@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-09-07T10:55:55.670Z</updated>
+    <updated>2020-09-08T09:10:38.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[如何申请eSIM？哪里办理eSIM手机卡？几时可以添加eSIM]]></title>
+        <id>https://cwlwxr.github.io/jQ-6zWnEr/</id>
+        <link href="https://cwlwxr.github.io/jQ-6zWnEr/">
+        </link>
+        <updated>2020-09-08T09:08:41.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怎么用支付宝充值香港手机号?支付宝可以给香港号交话费?]]></title>
         <id>https://cwlwxr.github.io/-nmoxLTd6/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/xU2tmDiJb/">
         </link>
         <updated>2020-08-30T04:25:25.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[易博通官网eSender微信公众号/APP/SIM卡/eSIM功能区别]]></title>
-        <id>https://cwlwxr.github.io/vCbX93UdQ/</id>
-        <link href="https://cwlwxr.github.io/vCbX93UdQ/">
-        </link>
-        <updated>2020-08-29T14:14:38.000Z</updated>
     </entry>
 </feed>
