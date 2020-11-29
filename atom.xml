@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2020-10-21T13:43:54.691Z</updated>
+    <updated>2020-11-29T06:50:05.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[安卓手机eSIM怎么开通激活？安卓手机上添加使用eSIM卡]]></title>
+        <id>https://cwlwxr.github.io/WnEnojq95/</id>
+        <link href="https://cwlwxr.github.io/WnEnojq95/">
+        </link>
+        <updated>2020-11-29T06:49:52.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果手机XS如何申请eSIM卡？苹果支付开通eSIM激活流程]]></title>
         <id>https://cwlwxr.github.io/r1gSNN2Lk/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/WX3eJO5EQ/">
         </link>
         <updated>2020-09-05T01:28:32.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大陆内地手机号在香港能上网吗？中国香港国内上网套餐]]></title>
-        <id>https://cwlwxr.github.io/qQPUJvH62/</id>
-        <link href="https://cwlwxr.github.io/qQPUJvH62/">
-        </link>
-        <updated>2020-09-04T10:41:31.000Z</updated>
     </entry>
 </feed>
