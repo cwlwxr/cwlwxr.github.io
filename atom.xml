@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2021-04-01T19:49:10.987Z</updated>
+    <updated>2021-04-10T18:25:04.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[马来西亚如何购买中国电话SIM卡？GrabPay买中国手机号码]]></title>
+        <id>https://cwlwxr.github.io/dNXA3ovRo/</id>
+        <link href="https://cwlwxr.github.io/dNXA3ovRo/">
+        </link>
+        <updated>2021-04-10T18:24:13.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手机注册APP目前可用的短信验证码接码平台哪个比较好用]]></title>
         <id>https://cwlwxr.github.io/j98dwmQVp/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/r1gSNN2Lk/">
         </link>
         <updated>2020-10-21T13:43:40.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外国人到中国旅游如何买临时电话卡？国内有办理业务吗]]></title>
-        <id>https://cwlwxr.github.io/RVcUsBVOl/</id>
-        <link href="https://cwlwxr.github.io/RVcUsBVOl/">
-        </link>
-        <updated>2020-09-15T13:15:03.000Z</updated>
     </entry>
 </feed>
