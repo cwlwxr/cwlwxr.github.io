@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2021-04-10T18:25:04.962Z</updated>
+    <updated>2021-04-24T01:50:26.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[新加坡哪里能买到中国手机卡？在新加坡申请办理中国电话卡]]></title>
+        <id>https://cwlwxr.github.io/Eq1-PhgKr/</id>
+        <link href="https://cwlwxr.github.io/Eq1-PhgKr/">
+        </link>
+        <updated>2021-04-23T23:51:12.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马来西亚如何购买中国电话SIM卡？GrabPay买中国手机号码]]></title>
         <id>https://cwlwxr.github.io/dNXA3ovRo/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/WnEnojq95/">
         </link>
         <updated>2020-11-29T06:49:52.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果手机XS如何申请eSIM卡？苹果支付开通eSIM激活流程]]></title>
-        <id>https://cwlwxr.github.io/r1gSNN2Lk/</id>
-        <link href="https://cwlwxr.github.io/r1gSNN2Lk/">
-        </link>
-        <updated>2020-10-21T13:43:40.000Z</updated>
     </entry>
 </feed>
