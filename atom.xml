@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2021-04-24T01:50:26.403Z</updated>
+    <updated>2021-05-20T05:29:24.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[香港人接种2剂2019冠状病毒疫苗免费延长中国手机号码360日有效期]]></title>
+        <id>https://cwlwxr.github.io/2_-QOzEME/</id>
+        <link href="https://cwlwxr.github.io/2_-QOzEME/">
+        </link>
+        <updated>2021-05-20T05:27:48.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新加坡哪里能买到中国手机卡？在新加坡申请办理中国电话卡]]></title>
         <id>https://cwlwxr.github.io/Eq1-PhgKr/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/0rbCnn1dG/">
         </link>
         <updated>2020-12-14T07:54:47.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓手机eSIM怎么开通激活？安卓手机上添加使用eSIM卡]]></title>
-        <id>https://cwlwxr.github.io/WnEnojq95/</id>
-        <link href="https://cwlwxr.github.io/WnEnojq95/">
-        </link>
-        <updated>2020-11-29T06:49:52.000Z</updated>
     </entry>
 </feed>
