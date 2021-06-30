@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cwlwxr.github.io</id>
     <title>外星人的跨境电商营销</title>
-    <updated>2021-06-18T11:35:35.120Z</updated>
+    <updated>2021-06-30T19:29:13.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cwlwxr.github.io"/>
     <link rel="self" href="https://cwlwxr.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cwlwxr.github.io/images/avatar.png</logo>
     <icon>https://cwlwxr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 外星人的跨境电商营销</rights>
+    <entry>
+        <title type="html"><![CDATA[易博通无法申请使用不能充值?易博通开通的号码不能用?]]></title>
+        <id>https://cwlwxr.github.io/NRt6LgRUL/</id>
+        <link href="https://cwlwxr.github.io/NRt6LgRUL/">
+        </link>
+        <updated>2021-06-30T19:28:19.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[易博通开通的号码需要激活吗？开通香港电话号有效吗？]]></title>
         <id>https://cwlwxr.github.io/7KEQyCCdl/</id>
@@ -72,12 +79,5 @@
         <link href="https://cwlwxr.github.io/WO3W97Qw7/">
         </link>
         <updated>2021-03-02T19:53:04.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[易博通中国和香港手机号码暂停Google Pay和Apple Pay]]></title>
-        <id>https://cwlwxr.github.io/HVxvGH9S_/</id>
-        <link href="https://cwlwxr.github.io/HVxvGH9S_/">
-        </link>
-        <updated>2021-03-02T19:46:11.000Z</updated>
     </entry>
 </feed>
