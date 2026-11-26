@@ -1,0 +1,193 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>Cloudflare Workers AI免费调用API全流程：注册、配置、上线一步到位 | 外星人的跨境电商营销</title>
+<meta name="description" content="外星人的跨境电商营销的Github博客。">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://cwlwxr.github.io/favicon.ico?v=1795707520853">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://cwlwxr.github.io/styles/main.css">
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-43519592-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-43519592-4');
+</script>
+
+
+
+<script data-ad-client="ca-pub-5429014075689868" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://cwlwxr.github.io">
+        <img class="avatar" src="https://cwlwxr.github.io/images/avatar.png?v=1795707520853" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://cwlwxr.github.io">
+        <h1 class="site-title">外星人的跨境电商营销</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://www.chenweiliang.com/phone-number/" class="menu" target="_blank">
+            虚拟手机号码
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://www.chenweiliang.com/china-phone-number/" class="menu" target="_blank">
+            中国手机号码
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://www.chenweiliang.com/uk-mobile-number/" class="menu" target="_blank">
+            英国手机号码
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://www.chenweiliang.com/hong-kong-phone-number/" class="menu" target="_blank">
+            香港手机号码
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://www.chenweiliang.com/us-mobile-number/" class="menu" target="_blank">
+            美国手机号码
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://www.etufo.org/" class="menu" target="_blank">
+            UFO
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">Cloudflare Workers AI免费调用API全流程：注册、配置、上线一步到位</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2026-11-23</span>
+            
+          </div>
+          <div class="post-content">
+            <div class="entry-content clear" itemprop="text"><div class="code-block code-block-10" style="margin: 8px 0; clear: both;"><p>本文链接：<a href="https://www.chenweiliang.com/cwl-34244.html" title="Cloudflare Workers AI免费调用API全流程：注册、配置、上线一步到位">https://www.chenweiliang.com/cwl-34244.html</a></p></div><p>前两天我在折腾一个个人项目，想搭个<a href="https://www.chenweiliang.com/ai/" title="AI 人工智能" target="_blank">AI</a>助手，就需要调用大模型。一问价格，好家伙，GPT-4o一次调用几毛钱，要是我们这项目真跑起来，一个月光API费就得大几千。</p><p>我们就寻思，有没有什么便宜的路子。</p><p>然后我们就翻到了<a href="https://www.chenweiliang.com/cloudflare/" title="Cloudflare" target="_blank">Cloudflare</a> Workers AI。其实之前就知道Cloudflare搞了AI推理，但一直没当回事，觉得大厂的东西肯定得收费吧。结果一看，好家伙，每天白送10000 Neurons。</p><p>10000 Neurons什么概念？差不多几百次对话或几百次图像生成，一天。个人玩完全够了。</p><p>当时我就来劲了，立马去研究了一波。</p><h2><span class="ez-toc-section" id="cwl"></span>Cloudflare Workers AI 是什么？<span class="ez-toc-section-end"></span></h2><p><img post-id="34244" fifu-featured="1" loading="lazy" decoding="async" src="https://media.chenweiliang.com/2026/06/cloudflare-free-ai-models.webp" alt="Cloudflare Workers AI免费调用API全流程：注册、配置、上线一步到位" title="Cloudflare Workers AI免费调用API全流程：注册、配置、上线一步到位" width="848" height="1264" class="aligncenter"></p><p>Cloudflare Workers AI这玩意，怎么说呢，我觉得它的<a href="https://www.chenweiliang.com/ding-wei/" title="定位" target="_blank">定位</a>挺有意思的。它不是一个单纯的模型提供商，它是一个跑在Cloudflare全球边缘网络上的AI推理平台。300多个城市的边缘节点，离用户贼近。</p><p>你想想看，你用OpenAI的API，请求先跑去美国，处理完再回来，一趟三四百毫秒。Cloudflare这个，因为它本身就是做CDN的，全球到处都有节点，你人在哪，它就在离你最近的节点上跑模型。</p><p>典型响应不到100毫秒。这个差距，体感上很明显。</p><p>而且它有个很骚的地方，就是冷启动是毫秒级的，自动扩缩容。流量突然爆了也不会卡，不像有些平台凌晨三点没人用的时候响应快得要死，白天一高峰直接炸了。</p><div class="su-youtube su-u-responsive-media-yes"><iframe loading="lazy" width="600" height="400" src="https://www.youtube.com/embed/ExMSfy1DVfc?autohide=2&amp;autoplay=1&amp;mute=0&amp;controls=1&amp;fs=1&amp;loop=1&amp;modestbranding=1&amp;playlist=ExMSfy1DVfc&amp;rel=1&amp;showinfo=1&amp;theme=dark&amp;wmode=&amp;playsinline=0" frameborder="0" allowfullscreen="" allow="autoplay; encrypted-media; picture-in-picture" title="🚀 Cloudflare Workers AI免费调用API全流程来啦！从注册到配置再到上线，一步到位，轻松掌握！"></iframe></div><h2><span class="ez-toc-section" id="cwl-2"></span>50+ 模型，覆盖全场景<span class="ez-toc-section-end"></span></h2><p>支持的模型也很多，2026年6月这个时间点，已经有50多个了。</p><p>文本对话这块，Llama 3、Llama 4、Mistral、GLM、Qwen、Gemma、deepseek-r1都有。图像生成有Stable Diffusion、FLUX、Pixverse。语音方面有Whisper语音转文字，也有TTS文字转语音，甚至还有视频生成。</p><p>而且它的API设计得很干净。不管用什么模型，都是统一的一个接口，改一下模型名就行。</p><p>env.AI.run(“模型名”, {…})</p><p>一行代码换模型，太舒服了。</p><h2><span class="ez-toc-section" id="cwl-3"></span>价格极便宜，免费额度友好<span class="ez-toc-section-end"></span></h2><p>价格这块我也算了一下。免费额度每天10000 Neurons，个人折腾完全够了。如果要付费，0.011美元1000 Neurons，比OpenAI便宜60%到90%。而且它是按Neuron计费的，不是按token，小对话更划算。</p><p>这个计费方式，说实话我觉得挺良心的。你简简单单聊两句和一个超长上下文，花的Neurons不一样，但差别不会像token计费那么离谱。</p><p>说到这你可能想问，那到底怎么用？</p><p>我亲自走了一遍流程，给你说说。</p><h2><span class="ez-toc-section" id="cwl-4"></span>注册与创建 API 令牌<span class="ez-toc-section-end"></span></h2><p>第一步，先注册Cloudflare账号。有账号的直接登录就行，没有的话注册一个也不麻烦，填个邮箱设个密码就完事了。</p><p>登录之后，点左边菜单的AI，再点Workers AI。</p><p><img loading="lazy" decoding="async" class="aligncenter" src="https://media.chenweiliang.com/2026/06/cloudflare-free-ai-models_2.png" alt="Cloudflare Workers AI 入口界面" width="650" height="304" title="Cloudflare Workers AI 入口界面"></p><p>&nbsp;</p><p style="position: relative;">进去之后会看到一个创建API令牌的按钮，点一下就能生成令牌。</p><p style="position: relative;"><img loading="lazy" decoding="async" class="aligncenter" src="https://media.chenweiliang.com/2026/06/cloudflare-free-ai-models_1.png" alt="创建 Workers AI API 令牌" bak_src="https://media.chenweiliang.com/2026/06/cloudflare-free-ai-models_1.png" width="651" height="322" title="创建 Workers AI API 令牌"></p><p>这里有个细节要注意一下，生成的令牌只有创建的时候能看到一次，一定要保存好。页面同时还会给你一个账户ID，这两个东西后面都要用。</p><p><img decoding="async" class="aligncenter" src="https://media.chenweiliang.com/2026/06/cloudflare-free-ai-models_3.png" alt="保存 API 令牌和账户 ID" title="保存 API 令牌和账户 ID"></p><p>保存好之后，页面下面会有调用示例，就是curl命令。把账户ID和APIKEY替换进去就行。命令长这样：</p><pre>curl \
+  https://api.cloudflare.com/client/v4/accounts/账户ID/ai/run/@cf/模型ID \
+  -H "Authorization: Bearer 刚才生成的APIKEY" \
+  -d '{"messages":[{"role":"system","content":"You are a friendly assistant that helps write stories"},{"role":"user","content":"Write a short story about a llama that goes on a journey to find an orange cloud"}]}'</pre><h2><span class="ez-toc-section" id="cwl-5"></span>查看可用模型列表<span class="ez-toc-section-end"></span></h2><p>然后问题来了，模型ID去哪看？</p><p>在Workers AI页面右边有个文档按钮。</p><p><img decoding="async" class="aligncenter" src="https://media.chenweiliang.com/2026/06/cloudflare-free-ai-models_4.png" alt="点击文档按钮" title="点击文档按钮"></p><p>点进去找到Models这个分类，那里是所有模型的列表。</p><p><img decoding="async" class="aligncenter" src="https://media.chenweiliang.com/2026/06/cloudflare-free-ai-models_5.png" alt="Models 模型列表" title="Models 模型列表"></p><p>选一个你想用的，点进去就能看到模型ID。</p><p><img decoding="async" class="aligncenter" src="https://media.chenweiliang.com/2026/06/cloudflare-free-ai-models_6.png" alt="查看模型 ID" title="查看模型 ID"></p><h2><span class="ez-toc-section" id="cwl-6"></span>测试调用 kimi2.6 模型<span class="ez-toc-section-end"></span></h2><p>我选择用kimi2.6来测试一下。把模型ID复制出来，替换到curl命令里，从@cf/开始替换。</p><p>请求发出去，很快就返回了结果。</p><p><img decoding="async" class="aligncenter" src="https://media.chenweiliang.com/2026/06/cloudflare-free-ai-models_7.png" alt="测试调用 kimi2.6 结果" title="测试调用 kimi2.6 结果"></p><p>响应速度确实很快，比我想象中要流畅。</p><p>说实话，我就是想看看这个免费额度到底能干什么，结果发现还挺能打的。日常聊天、内容生成、翻译、写代码，这些场景完全够用。</p><p>而且你想想，这玩意跑在边缘节点上，你部署一个AI应用，用户遍布全国甚至全球，响应速度都能保持一致，不用考虑区域部署的问题。对于个人开发者和小团队来说，这个吸引力太大了。</p><p>以前你要跑模型，要么自己买GPU搭建，贵得要死，要么用云厂商的GPU实例，配置起来麻烦。Cloudflare这个，直接给你封装好了，你写代码调用就行，后面那些乱七八糟的事都帮你处理了。</p><p>我觉得这个思路是对的。AI能力会越来越像水电一样的基础设施，你不需要知道电是怎么发的，插上就能用。Cloudflare Workers AI就是把这个「插上就能用」做得更极致了一点。</p><p>当然它也不是没有缺点。免费额度只有10000 Neurons，真要上生产环境，流量大的话还是要付费的。而且模型虽然有50多个，但跟OpenAI那种啥都有的生态比起来，还是有些小众模型或者最新的模型不支持。</p><p>但对于个人项目、小工具、或者只是好奇心驱动的尝试，我觉得已经完全够用了。</p><p><strong>更多完全版内容，以及Cloudflare的基础URL与接口配置方法，只需加入 <a href="https://www.chenweiliang.com/telegram" title="Telegram" target="_blank">Telegram</a> 频道并查看置顶的【工具包】即可获取 ▼</strong></p><div class="su-button-center"><a href="https://www.chenweiliang.com/go/tgchannel" class="su-button su-button-style-glass" style="color:#FFFFFF;background-color:#2D89EF;border-color:#246ec0;border-radius:7px" target="_blank" rel="nofollow" title="立即加入陈沩亮博客 Telegram 频道"><span style="color:#FFFFFF;padding:7px 20px;font-size:16px;line-height:24px;border-color:#6cadf4;border-radius:7px;text-shadow:none"><i class="sui sui-bullhorn" style="font-size:16px;color:#FFFFFF"></i> 点此加入 Telegram 频道</span></a></div><p>以上就是我的实际体验。既然看到这里了，如果觉得不错，随手点赞、转发吧，如果想第一时间收到推送，也可以给我个关注⭐～</p><p>谢谢你看我的文章，我们，下次再见。</p><div class="code-block code-block-9" style="margin: 8px 0; clear: both;"><p>希望陈沩亮博客（ <a href="https://www.chenweiliang.com/" target="_blank">https://www.chenweiliang.com/</a> ） 分享的《Cloudflare Workers AI免费调用API全流程：注册、配置、上线一步到位》，对您有帮助。</p><p>欢迎分享本文链接：<a href="https://www.chenweiliang.com/cwl-34244.html" title="Cloudflare Workers AI免费调用API全流程：注册、配置、上线一步到位">https://www.chenweiliang.com/cwl-34244.html</a></p><div style="text-align: center;"><p>欲解锁更多隐藏秘技🔑，欢迎加入Telegram频道！</p><p></p><div class="su-button-center"><a href="https://www.chenweiliang.com/go/tgchannel" class="su-button su-button-style-glass" style="color:#FFFFFF;background-color:#E44235;border-color:#b7352b;border-radius:7px" target="_blank" rel="nofollow" title="马上点此加入Telegram频道"><span style="color:#FFFFFF;padding:7px 20px;font-size:16px;line-height:24px;border-color:#ed7b72;border-radius:7px;text-shadow:none"><i class="sui sui-bullhorn" style="font-size:16px;color:#FFFFFF"></i> 马上点此加入Telegram频道</span></a></div><p>喜欢就分享和按赞！您的分享和按赞，是我们持续的动力！</p></div>　<aside class="related-posts"><h3>猜你喜欢</h3><ul> <li><a href="https://www.chenweiliang.com/cwl-34690.html" target="_blank" title="ChatGPT Plus 怎么充值最便宜？2026两种方式价格对比与避坑指南">ChatGPT Plus 怎么充值最便宜？2026两种方式价格对...</a></li> <li><a href="https://www.chenweiliang.com/cwl-34685.html" target="_blank" title="ChatGPT / Codex 余额不足？在线支付、代充值价格表与使用说明">ChatGPT / Codex 余额不足？在线支付、代充值价格...</a></li> <li><a href="https://www.chenweiliang.com/cwl-34681.html" target="_blank" title="中国国内 AI API 中转站是怎么赚钱的？月入过万到过百万的利润率拆解">中国国内 AI API 中转站是怎么赚钱的？月入过万到...</a></li> <li><a href="https://www.chenweiliang.com/cwl-34677.html" target="_blank" title="AI写歌给视频配乐的万能公式：附带可直接复制的提示词清单">AI写歌给视频配乐的万能公式：附带可直接复制的提...</a></li> <li><a href="https://www.chenweiliang.com/cwl-34671.html" target="_blank" title="以前注册过Telegram再次登录？旧号激活与换绑手机号避坑指南">以前注册过Telegram再次登录？旧号激活与换绑手机...</a></li></ul></aside><section class="navigate-posts"><div class="previous"><span class="main-color title"><i class="fa fa-chevron-left"></i> 上一篇：</span><span class="link"><a href="https://www.chenweiliang.com/cwl-34232.html" rel="prev">中国手机号解绑夸克：快速解除绑定与账号安全指南</a></span></div><div class="next"><span class="main-color title">下一篇： <i class="fa fa-chevron-right"></i></span><span class="link"><a href="https://www.chenweiliang.com/cwl-33706.html" rel="next">ChatGPT Plus怎么共享？新手必备共享开通与账号购买指南</a></span></div></section></div></div>
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://cwlwxr.github.io/QCBLkHME1R/">
+              <h3 class="post-title">
+                下一篇：夸克账号是中国手机号吗？账号体系与绑定关系科普
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">外星人的跨境电商营销的Github博客。</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+   | <a class="rss" href="https://cwlwxr.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+  </body>
+</html>
